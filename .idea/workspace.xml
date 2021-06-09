@@ -1,18 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64b7d600-2588-4f23-a9f4-80952e8a7b8d" name="Default Changelist" comment="" />
+    <list default="true" id="64b7d600-2588-4f23-a9f4-80952e8a7b8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/char_9douban.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/douban/douban/spiders/loginwithcookie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/douban/spiders/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/douban/douban/spiders/login.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="5486e12d-3cd4-41c2-80e2-1652e639f23b" />
   <component name="ProjectId" id="1thU6lkXRFc1HWhUMjyy7MU3DPG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,11 +46,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623220642060</updated>
-      <workItem from="1623220643232" duration="1749000" />
+      <workItem from="1623220643232" duration="7146000" />
     </task>
+    <task id="LOCAL-00001" summary="参数缺失">
+      <created>1623222525066</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623222525066</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="参数缺失" />
+    <option name="LAST_COMMIT_MESSAGE" value="参数缺失" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="327" y="24" key="CommitChangelistDialog2" timestamp="1623222524822">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="327" y="24" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1623222524822" />
+    <state x="585" y="354" key="Github.ShareDialog" timestamp="1623222493246">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="585" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1623222493246" />
+    <state x="522" y="160" key="Github.UntrackedFilesDialog" timestamp="1623222499469">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="522" y="160" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1623222499469" />
   </component>
 </project>
